@@ -8,7 +8,7 @@ This Module Work for Magento Version 2.x.x
 
 Installation Steps
 
-Please follow these steps to install the SSLCOMMERZ Payment Gateway module.
+Please follow these steps to install the FastPay Payment Gateway module.
 
 Step 1: Download module from https://github.com/letoncse7/FastPayMagento2Extension.git
 
