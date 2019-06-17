@@ -57,7 +57,7 @@ Thank You!
 
 For any issue, feel free to contact any time.
 
-- Author : SSL Wireless
+- Author : FastPay
 - Developed By : Leton Miah
 - Email : letoncse7@gmail.com
 - Team-Email: integration@fast-pay.cash
