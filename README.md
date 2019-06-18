@@ -48,11 +48,11 @@ Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
 
 Now Click on Save Config button.
 
+Step 9: Navigate to SYSTEM> Cache Management: Select all Cache type and click on Flush Magento Cache. Or you can do step 5.3, 5.4 & 5.5 to update module and flush cache.
 
+Step 10: Now you can test module is working or not. If you can see your payment option at checkout page then you have installed Module successfully :)
 
-Step 9: Now you can test module is working or not. If you can see your payment option at checkout page then you have installed Module successfully :)
-
-Step 10: Do a test transaction.
+Step 11: Do a test transaction.
 
 Thank You!
 
