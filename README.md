@@ -16,20 +16,23 @@ Step 2: Log in to your server using FTP or Cpanel.
 
 Step 3: Upload FastPay (Magento 2 Payment Module) inside of app/code dirrectory.
 
-Step 4: Now go to your server root and Upload cacheflush.php, updatemodule.php.
+Step 4: Now Run the command line and go to your project root directory.
 
 Step 5: Run The following command into command line: -
 
 	5.1: php bin/magento setup:upgrade
 	5.2: php bin/magento setup:static-content:deploy -f
-	5.3: php bin/magento clean:cache
+	5.3: php bin/magento cache:clean
 	5.4: php bin/magento cache:flush
+	5.5: php bin/magento index:reindex
 
-Step 6: Log in to your Magento admin account.
+Step 6: Navigate to SYSTEM> Cache Management: Select all Cache type and click on Flush Magento Cache. Or you can do step 5.3, 5.4 & 5.5 to update module and flush cache.
+
+Step 7: Log in to your Magento admin account.
 
 
 
-Step 7: Navigate to STORES > Configuration > SALES > Payment Methods > Other Payment Methods: > Fastpay Payment Gateway : then follow below steps
+Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Payment Methods: > Fastpay Payment Gateway : then follow below steps
 
 - Enabled : Yes (If No then Make it Yes).
 - Title : Set your own title what you want to see in checkout page.
@@ -45,11 +48,11 @@ Step 7: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
 
 Now Click on Save Config button.
 
-Step 10: Navigate to SYSTEM> Cache Management: Select all Cache type and click on Flush Magento Cache. Or you can do step 5.3 & 5.4 to update module and flush cache.
 
-Step 11: Now you can test module is working or not. If you can see your payment option at checkout page then you have installed Module successfully :)
 
-Step 12: Do a test transaction.
+Step 9: Now you can test module is working or not. If you can see your payment option at checkout page then you have installed Module successfully :)
+
+Step 10: Do a test transaction.
 
 Thank You!
 
