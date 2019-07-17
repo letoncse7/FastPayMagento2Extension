@@ -43,7 +43,9 @@ Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
 - API Password : Your Valid Password that Provided from FastPay.
 
   	You can test with the following marchant credentials:
+	
 	Merchant ID: +9641684405075
+	
 	Password: Password1@
 
 - Payment from Applicable Countries : Default / If haven't any. 
@@ -66,10 +68,8 @@ Thank You!
 For any issue, feel free to contact any time.
 
 - Author : FastPay
-- Developed By : Leton Miah
-- Email : letoncse7@gmail.com
+- Developed By : FastPay Team
 - Team-Email: integration@fast-pay.cash
 - More info: https://secure.fast-pay.cash/docs
-
 
 © 2019 FastPay ALL RIGHTS RESERVED
