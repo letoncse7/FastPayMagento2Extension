@@ -41,8 +41,9 @@ Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
 - Allowed Shipping Methods : Your Shipping Methods if have any.
 - Merchant ID : Your Valid Merchant ID that Provided from FastPay.
 - API Password : Your Valid Password that Provided from FastPay.
+
   	You can test with the following merchent creadentials:
-	----------------------------------------------------------
+	
 	Merchant ID: +9641684405075
 	Password: Password1@
 
