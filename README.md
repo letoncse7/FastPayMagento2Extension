@@ -63,7 +63,7 @@ Step 11: Do a test transaction.
 
 Thank You!
 
-*** Note : For the live Merchent ID please contact with integration@fast-pay.cash
+*** Note : For the live Merchant ID please contact with integration@fast-pay.cash
 
 For any issue, feel free to contact any time.
 
