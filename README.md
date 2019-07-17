@@ -45,6 +45,7 @@ Step 8: Navigate to STORES > Configuration > SALES > Payment Methods > Other Pay
   	You can test with the following merchent creadentials:
 	
 	Merchant ID: +9641684405075
+	
 	Password: Password1@
 
 - Payment from Applicable Countries : Default / If haven't any. 
